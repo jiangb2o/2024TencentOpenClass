@@ -27,3 +27,5 @@
 最后游戏结束时输出玩家分数, 在GameMode添加EndGame事件来实现  
 ![](img/EndGame.jpg)  
 
+### 效果展示
+![](img/Video.gif)  
